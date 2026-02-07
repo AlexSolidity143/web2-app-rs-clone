@@ -8,7 +8,7 @@ https://github.com/Maxtadont
 https://github.com/rzainullov  
 
 Инструкция по запуску приложения:  
-1) Перейдите по ссылке на приложение: https://sitecreator143.github.io/RS-clone  
+1) Перейдите по ссылке на приложение: https://alexsolidity143.github.io/web2-app-rs-clone/
 2) Зарегистрируйте локальный аккаунт, нажав "Sign up"  
 3) Войдите в свой аккаунт, введя логин и пароль, указанные при регистрации  
 4) В разделе "Settings" можно выбрать количество игроков, язык, звук и цвет поля  
@@ -38,4 +38,4 @@ Audio API.
 Аутентификация с использованием хэширования.  
   
 Посмотреть работу приложения и поиграть:  
-https://sitecreator143.github.io/RS-clone
+https://alexsolidity143.github.io/web2-app-rs-clone/
